@@ -1,0 +1,22 @@
+{
+  "name": "autoapply",
+  "version": "1.0.0",
+  "description": "Automatically apply to jobs in this tough times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayavardhan3112/AutoApply.git"
+  },
+  "author": "Jayavardhan Karampudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayavardhan3112/AutoApply/issues"
+  },
+  "homepage": "https://github.com/jayavardhan3112/AutoApply#readme",
+  "dependencies": {
+    "js-beautify": "^1.14.7"
+  }
+}
